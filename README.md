@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 ### @wlsdn_333
 <li> 2006.08.12
 <li> 대한민국 경기도 화성시 병점동
-2019. 태안초등학교 졸업
-2022. 병점중학교 졸업
-2025. 안화고등학교 졸업
