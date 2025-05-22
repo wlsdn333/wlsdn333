@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 박진우
-## 경희대학교 컴퓨터공학과
+## 경희대학교 컴퓨터공학과 25학번
 ### @wlsdn_333
 <li> 2006.08.12
 <li> 대한민국 경기도 화성시 병점동
-<img src="https://imgshields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logo&logoColor=white">
+<ul> 2019.<strong> 태안초등학교 </srtong> 졸업
+<ul> 2022.<strong> 병점중학교 </srtong> 졸업
+<ul> 2025.<strong> 안화고등학교 </srtong> 졸업 
