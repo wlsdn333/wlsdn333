@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 박진우
+## 경희대학교
+### 컴퓨터공학과
+<li> <strong> 2006.08.12 </strong>
+<li> <sub> 대한민국 경기도 화성시 병점동 </sub>
